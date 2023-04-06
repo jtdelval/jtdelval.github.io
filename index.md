@@ -6,7 +6,7 @@ Outside of work and academics, I'm an avid fan of magical realist literature, tr
 
 # Projects
 
-Here are some **projects** I've worked on:
+Here are some projects I've worked on:
 
 * Phishing Detection via Linear Programming & Support Vector Machines: [Link](./projects/phishing.pdf)
 * Predicting Political Bias in Wikipedia Articles: [Link](https://vasyasha.github.io/PoW/)
@@ -17,7 +17,7 @@ Here are some **projects** I've worked on:
 For an assignment:
 
 - [x] Headings (above)
-- [x] Styling text (projects)
+- [x] **Styling** text
 - [x] Quoting text (below)
 - [x] Quoting code (below)
 - [x] External links (UCSD)
@@ -28,7 +28,6 @@ For an assignment:
 - [x] Task lists (here)
 - [ ] Removing this afterwards
 
-The rest of the required items are located in 
 > This text is quoted
 
 `this is code-quoted`
