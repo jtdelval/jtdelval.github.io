@@ -1,6 +1,8 @@
 # About
 
-I'm a computer science graduate student at [UC San Diego](https://ucsd.edu/)
+I'm a computer science masters student at [UC San Diego](https://ucsd.edu/). I previously got my bachlors in Data Science from the same university with a minor in psychology, and I'm interested in Data Science and and Software Engineering as a career.
+
+Outside of work and academics, I'm an avid fan of magical realist literature, travel, animation, and writing.
 
 # Projects
 
